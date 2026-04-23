@@ -1,5 +1,5 @@
-List provider hosting murah
-
+List provider hosting murah, tanda [v] untuk provider yang sudah saya coba sendiri
+------------------------------------------------------------------------------------
 https://arenhost.id/cheap-hosting
 https://www.dobelhost.com/
 https://gapurahoster.co.id/web-hosting-murah-indonesia/
@@ -17,7 +17,7 @@ https://pasarhosting.com/hosting-murah/
 https://www.natanetwork.com/promo-hosting-murah/
 https://www.klikserver.com/?gad_source=1&gad_campaignid=1651973885&gbraid=0AAAAAC5Cyj7neTl6P26QelAznJONYmfEf&gclid=CjwKCAjwhqfPBhBWEiwAZo196jy2fEz59Ev4hcH8Xo7fm5m1GwwVbyy9eeEC-HzDAXxubcyrfYvNfhoCjdYQAvD_BwE
 https://www.jetorbit.com/web-hosting/
-https://www.domainesia.com/
+[v] https://www.domainesia.com/
 https://gapurahoster.co.id/
 https://www.webiihost.com/hosting-indonesia.php
 https://www.biznetgio.com/product/neo-web-hosting-personal%20?gad_campaignid=23622933978&gad_source=1&gbraid=0AAAABC9qq12LlIKNbxVO0x3Dz35ziIpky
