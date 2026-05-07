@@ -1,5 +1,5 @@
-## List provider hosting murah, tanda [v] untuk provider yang sudah saya coba sendiri
-- [v] https://arenhost.id/cheap-hosting
+## List provider hosting murah, tanda [x] untuk provider yang sudah saya coba sendiri
+- [x] https://arenhost.id/cheap-hosting
 - [ ] https://www.dobelhost.com/
 - [ ] https://gapurahoster.co.id/web-hosting-murah-indonesia/
 - https://www.qwords.com/hosting-murah/
