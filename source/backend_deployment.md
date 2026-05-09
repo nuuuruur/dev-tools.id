@@ -3,7 +3,7 @@ Kami **tidak terikat** dengan provider apapun dan kami tidak menerima keuntungan
 
 | Status | Tautan | Ket. |
 |:------:|:-------|:-----|
-| &#9744; | <a href="https://render.com/" target="_blank">Render</a> |  |
+| &#9744; | <a href="https://render.com/" target="about_blank">Render</a> |  |
 | &#9744; | [Railway](https://railway.com/) |  |
 | &#9744; | [Build fast. Run any code fearlessly. · Fly](https://fly.io/) |  |
 | &#9744; | [Heroku: The Cloud Application Platform: Build. Deploy. Scale.](https://www.heroku.com/) |  |
