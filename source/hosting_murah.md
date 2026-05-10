@@ -33,7 +33,7 @@ Kami **tidak terikat** dengan provider apapun dan kami tidak menerima keuntungan
 | &#9744; | [Cloud Radio Streaming Hosting Radio Online Stabil & Handal](https://arenastreaming.com/) |  |
 | &#9744; | [Kencang.Com - Indonesia VPS Provider](kencang.com) |  |
 | &#9744; | [Web Hosting Murah Indonesia, Cloud VPS & Domain .ID - Hostnic](hostnic.id) |  |
-| &#9744; | [Server VPS Terbaik Murah Indonesia | Dihostingin](https://dihostingin.com/) |  |
+| &#9744; | [Server VPS Terbaik Murah Indonesia Dihostingin](https://dihostingin.com/) |  |
 | &#9744; | [Cloud that Grows with You - CloudRaya](https://cloudraya.com/id/) |  |
 | &#9744; | []() |  |
 
