@@ -7,8 +7,8 @@ Kami **tidak terikat** dengan provider apapun dan kami tidak menerima keuntungan
 | &#9744; | [DOKU](https://www.doku.com/) | Payment yang cukup populer di Indonesia  |
 | &#9744; | [iPaymu.com: Payment Gateway Indonesia Terbaik Terlengkap](https://ipaymu.com/) |  |
 | &#9744; | [Mayar - No Code Payment and Commerce Platform for Any Business](https://mayar.id/) |  |
-| &#9744; | [DompetX - Solusi Payment Gateway Terbaidk](httpds://dompetx.com/) | Sedang tahap pengembangan |
-| &#9744; | [https://tripay.co.id/](Solusi Pembayaran Indonesia Termurah & Terbaik - TriPay Payment) |  |
+| &#9744; | [DompetX - Solusi Payment Gateway Terbaidk](https://dompetx.com/) | Sedang tahap pengembangan |
+| &#9744; | [Solusi Pembayaran Indonesia Termurah & Terbaik - TriPay Payment](https://tripay.co.id/) |  |
 | &#9744; | [Duitku: Payment Gateway Indonesia Dengan Service Terbaik](https://www.duitku.com/) |  |
 | &#9744; | [SanPay - Payment Gateway/](https://sanpay.id/Payment-Gateway/) |  |
 | &#9744; | [Qiospay](https://qiospay.id/) | [Contoh](https://help.bukaolshop.com/tutorial-cara-integrasi-pembayaran-qris-menggunakan-qiospay/) |
