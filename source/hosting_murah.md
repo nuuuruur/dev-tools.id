@@ -30,8 +30,8 @@ Kami **tidak terikat** dengan provider apapun dan kami tidak menerima keuntungan
 | &#9744; | [VynzzHost](https://vynzzhost.com/) | Untuk Bot |
 | &#9744; | [Sorabit — Cloud Hosting dan VPS Cepat untuk Indonesia](https://www.sorabit.com/) | Mulai 9k/blm |
 | &#9744; | [Diskon.com](https://diskon.com/) | Hosting Gratis |
-| &#9744; | [Cloud Radio Streaming Hosting Radio Online Stabil & Handal](https://arenastreaming.com/) |  |
-| &#9744; | [Kencang.Com - Indonesia VPS Provider](kencang.com) |  |
+| &#9744; | [Cloud Radio Streaming Hosting Radio Online Stabil & Handal](https://arenastreaming.com/) | Vps start 20k. Hosting start 5k. |
+| &#9744; | [Kencang.Com - Indonesia VPS Provider](https://kencang.com/) |  |
 | &#9744; | [Web Hosting Murah Indonesia, Cloud VPS & Domain .ID - Hostnic](hostnic.id) |  |
 | &#9744; | [Server VPS Terbaik Murah Indonesia Dihostingin](https://dihostingin.com/) |  |
 | &#9744; | [Cloud that Grows with You - CloudRaya](https://cloudraya.com/id/) |  |
