@@ -35,6 +35,8 @@ Kami **tidak terikat** dengan provider apapun dan kami tidak menerima keuntungan
 | &#9744; | [Web Hosting Murah Indonesia, Cloud VPS & Domain .ID - Hostnic](hostnic.id) |  |
 | &#9744; | [Server VPS Terbaik Murah Indonesia Dihostingin](https://dihostingin.com/) |  |
 | &#9744; | [Cloud that Grows with You - CloudRaya](https://cloudraya.com/id/) |  |
+| &#9744; | [DigitalPlat Domain](https://domain.digitalplat.org/) | Gratis domain |
+| &#9744; | [Portal Home - DNS SERVER](https://app.dnsserver.my.id/) | DOmain murah |
 | &#9744; | []() |  |
 
 <p align="right">
