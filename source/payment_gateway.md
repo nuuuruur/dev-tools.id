@@ -12,8 +12,17 @@ Kami **tidak terikat** dengan provider apapun dan kami tidak menerima keuntungan
 | &#9744; | [Duitku: Payment Gateway Indonesia Dengan Service Terbaik](https://www.duitku.com/) |  |
 | &#9744; | [SanPay - Payment Gateway/](https://sanpay.id/Payment-Gateway/) |  |
 | &#9744; | [Qiospay](https://qiospay.id/) | [Contoh](https://help.bukaolshop.com/tutorial-cara-integrasi-pembayaran-qris-menggunakan-qiospay/) |
+| &#9744; | [HitPay: All-in-one Payment Solutions for Growing Businesses](https://hitpayapp.com/) |  |
+| &#9744; | [Payment Gateway Indonesia tanpa ribet - Duitku](https://www.duitku.com/payment-gateway/) |  |
+| &#9744; | [Paprika  Payment Gateway Indonesia](https://www.paprika.co.id/) |  |
+| &#9744; | [Pakaidonk E-money](https://pakaidonk.id/) |  |
+| &#9744; | [Solusi Pembayaran Indonesia Termurah & Terbaik - TriPay Payment](https://tripay.co.id/) |  |
+| &#9744; | [Betabotz Paygate](https://web.btzpay.my.id/) |  |
 | &#9744; | []() |  |
 | &#9744; | []() |  |
+| &#9744; | []() |  |
+
+
 
 >Semua support QRIS
 ><p align="right">
