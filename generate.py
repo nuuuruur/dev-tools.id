@@ -69,10 +69,10 @@ def render_notes(notes) -> str:
 def render_table(items: list[dict]) -> str:
     lines = ["| Status | Nama | Catatan |", "|:------:|:-----|:--------|"]
     for item in items:
-        checkbox = "x" if item.get("tried") else " "
+        checkbox = "✅" if item.get("tried") else "⬜"
         name = f"[{item['name']}]({item['url']})"
         notes = render_notes(item.get("notes"))
-        lines.append(f"| [{checkbox}] | {name} | {notes} |")
+        lines.append(f"| {checkbox} | {name} | {notes} |")
     return "\n".join(lines)
 
 
