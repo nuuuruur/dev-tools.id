@@ -1,0 +1,20 @@
+title: "Api Provider (Random)"
+disclaimer: "Kami tidak terikat dengan provider apapun dan tidak menerima keuntungan sepeserpun."
+note: Ini ada api provider murah buat LLM ada juga yang biasanya dipake untuk whatsapp bot (gratis & bayar).
+items:
+  - name: Nexray Api
+    url: https://api.nexray.eu.cc/
+    tried: false
+    notes:
+      - text: "Wa bot - Free"
+        author: "nuuuruur"
+  - name: Betabotz
+    url: https://api.betabotz.eu.org/
+    tried: true
+    notes:
+      - text: "Murah tapi agak kurang qualitynya"
+        author: "nuuuruur"
+  - name: 
+    url: 
+    tried: 
+    notes: 

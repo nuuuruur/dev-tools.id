@@ -1,0 +1,229 @@
+title: "Hosting Murah Indonesia"
+disclaimer: "Kami tidak terikat dengan provider apapun dan tidak menerima keuntungan sepeserpun."
+note: null
+items:
+  - name: ArenHost
+    url: https://arenhost.id/cheap-hosting
+    tried: true
+    notes:
+      - text: "10k/bln dapat terminal. Cloudlinux"
+        author: "nuuuruur"
+  - name: Dobelhost
+    url: https://www.dobelhost.com/
+    tried: false
+    notes:
+      - text: "98k/thn"
+        author: "nuuuruur"
+  - name: Gapurahoster
+    url: https://gapurahoster.co.id/web-hosting-murah-indonesia/
+    tried: false
+    notes:
+      - text: "8k/bln"
+        author: "nuuuruur"
+  - name: Qwords
+    url: https://www.qwords.com/hosting-murah/
+    tried: false
+    notes:
+      - text: "15k/bln"
+        author: "nuuuruur"
+  - name: Dewaweb
+    url: https://www.dewaweb.com
+    tried: false
+    notes: null
+  - name: Unlimited Host
+    url: https://unlimitedhost.id
+    tried: false
+    notes:
+      - text: "Lifetime Hosting"
+        author: "nuuuruur"
+  - name: IDCloudHost
+    url: https://idcloudhost.com/hosting/
+    tried: false
+    notes:
+      - text: "20k/bln"
+        author: "nuuuruur"
+  - name: Jagoan Hosting
+    url: https://www.jagoanhosting.com/hosting-murah/
+    tried: false
+    notes:
+      - text: "25k/bln"
+        author: "nuuuruur"
+  - name: Hyper Cloud Host
+    url: https://hypercloudhost.com/cheap-hosting/
+    tried: false
+    notes:
+      - text: "Golang support"
+        author: "nuuuruur"
+  - name: IndoWebsite
+    url: https://www.indowebsite.co.id/hosting-murah/
+    tried: false
+    notes: null
+  - name: Wide Host Media
+    url: https://widehostmedia.com/web-hosting-murah/
+    tried: false
+    notes:
+      - text: "Ada trial"
+        author: "nuuuruur"
+  - name: Warna Host
+    url: https://www.warnahost.com/hosting-murah/
+    tried: false
+    notes:
+      - text: "Nodejs support di harga 40k"
+        author: "nuuuruur"
+  - name: Natane Network
+    url: https://www.natanetwork.com/promo-hosting-murah/
+    tried: false
+    notes:
+      - text: "VPS 40k/bln"
+        author: "nuuuruur"
+  - name: KlikServer
+    url: https://www.klikserver.com/
+    tried: false
+    notes:
+      - text: "Bener bener dedicated server"
+        author: "nuuuruur"
+  - name: Jetorbit
+    url: https://www.jetorbit.com/web-hosting/
+    tried: false
+    notes:
+      - text: "15k/bln tapi minimal setahun"
+        author: "nuuuruur"
+  - name: Domainesia
+    url: https://www.domainesia.com/
+    tried: true
+    notes:
+      - text: "Domainnya murmer"
+        author: "nuuuruur"
+  - name: Webiihost
+    url: https://www.webiihost.com/hosting-indonesia.php
+    tried: false
+    notes:
+      - text: "5k/bulan cuman web utamanya aga jadul"
+        author: "nuuuruur"
+  - name: Biznet Gio
+    url: https://www.biznetgio.com/
+    tried: false
+    notes:
+      - text: "Vps 50k/bln 60GB storage"
+        author: "nuuuruur"
+  - name: Citra Host
+    url: https://www.citrahost.com/hosting-murah.html
+    tried: false
+    notes:
+      - text: "Mulai 21k/bln"
+        author: "nuuuruur"
+  - name: IDwebhost
+    url: https://idwebhost.com/hosting-murah
+    tried: false
+    notes:
+      - text: "19k/bln"
+        author: "nuuuruur"
+  - name: YupraHost
+    url: https://yupra.net/
+    tried: false
+    notes:
+      - text: "Untuk Bot"
+        author: "nuuuruur"
+  - name: Raznar
+    url: https://raznar.id/
+    tried: false
+    notes:
+      - text: "Game, bot, vps, web hosting, bare metal"
+        author: "nuuuruur"
+  - name: Hostingindo
+    url: https://hostingindo.id/
+    tried: false
+    notes:
+      - text: "20k/bln"
+        author: "nuuuruur"
+  - name: Octavia
+    url: https://octavia.id/
+    tried: false
+    notes:
+      - text: "Minecraft, bot, website dan database hosting"
+        author: "nuuuruur"
+  - name: VynzzHost
+    url: https://vynzzhost.com/
+    tried: false
+    notes:
+      - text: "Untuk Bot"
+        author: "nuuuruur"
+  - name: Sorabit
+    url: https://www.sorabit.com/
+    tried: false
+    notes:
+      - text: "Mulai 9k/bln"
+        author: "nuuuruur"
+  - name: Diskon.com
+    url: https://diskon.com/
+    tried: false
+    notes:
+      - text: "Hosting Gratis"
+        author: "nuuuruur"
+  - name: Arena Streaming
+    url: https://arenastreaming.com/
+    tried: false
+    notes:
+      - text: "Vps start 20k. Hosting start 5k."
+        author: "nuuuruur"
+  - name: Kencang.com
+    url: https://kencang.com/
+    tried: false
+    notes: null
+  - name: Hostnic
+    url: https://hostnic.id
+    tried: false
+    notes: null
+  - name: Dihostingin
+    url: https://dihostingin.com/
+    tried: false
+    notes: null
+  - name: CloudRaya
+    url: https://cloudraya.com/id/
+    tried: false
+    notes: null
+  - name: DigitalPlat Domain
+    url: https://domain.digitalplat.org/
+    tried: false
+    notes:
+      - text: "Gratis domain"
+        author: "nuuuruur"
+  - name: DNS Server
+    url: https://app.dnsserver.my.id/
+    tried: false
+    notes:
+      - text: "Domain murah"
+        author: "nuuuruur"
+  - name: Panel Ptereodactyl Next Gen
+    url: https://panelreserverd.lovable.app/
+    tried: false
+    notes:
+      - text: "Cocok untuk deploy bot dengan base nodejs/python. Ada permanen unlimitied (klaimnya sih) --> 50K"
+        author: "nuuuruur"
+  - name: Atlantic server
+    url: https://atlantic-server.com/
+    tried: false
+    notes:
+      - text: "Vps Murah start 30k/bulan"
+        author: "nuuuruur"
+  - name: Bi-Host
+    url: https://bihost.my.id/
+    tried: false
+    notes:
+      - text: "Vps murah start 30k dan Ptereodactyl panel start 3k"
+        author: "nuuuruur"
+  - name: Nex Network
+    url: https://nex.co.id/hosting-murah/
+    tried: false
+    notes:
+      - text: "Start 20k shared hostingindo"
+        author: "nuuuruur"
+  - name: 
+    url: 
+    tried: 
+    notes: 
+  - name: 
+    url: 
+    tried: 
+    notes: 
+

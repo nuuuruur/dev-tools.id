@@ -1,0 +1,81 @@
+title: "Payment Gateway Indonesia"
+disclaimer: "Kami tidak terikat dengan provider apapun dan tidak menerima keuntungan sepeserpun."
+note: "Semua support QRIS"
+items:
+  - name: Xendit
+    url: https://id.xendit.co/
+    tried: true
+    notes:
+      - text: "Ekosistem APInya bagus. Tapi perlu dokumen legalitas resmi (NIB)"
+        author: "nuuuruur"
+      - text: "Dashboardnya gampang dipahami"
+        author: "nuuuruur"
+  - name: Midtrans
+    url: https://midtrans.com/id
+    tried: true
+    notes:
+      - text: "Tidak perlu NIB"
+        author: "nuuuruur"
+  - name: DOKU
+    url: https://www.doku.com/
+    tried: false
+    notes:
+      - text: "Payment yang cukup populer di Indonesia"
+        author: "nuuuruur"
+  - name: iPaymu
+    url: https://ipaymu.com/
+    tried: false
+    notes: null
+  - name: Mayar
+    url: https://mayar.id/
+    tried: false
+    notes:
+      - text: "No Code Payment and Commerce Platform"
+        author: "nuuuruur"
+  - name: DompetX
+    url: https://dompetx.com/
+    tried: false
+    notes:
+      - text: "Sedang tahap pengembangan"
+        author: "nuuuruur"
+  - name: TriPay
+    url: https://tripay.co.id/
+    tried: false
+    notes: null
+  - name: Duitku
+    url: https://www.duitku.com/
+    tried: false
+    notes: null
+  - name: SanPay
+    url: https://sanpay.id/Payment-Gateway/
+    tried: false
+    notes: null
+  - name: Qiospay
+    url: https://qiospay.id/
+    tried: false
+    notes: null
+  - name: HitPay
+    url: https://hitpayapp.com/
+    tried: false
+    notes: null
+  - name: Paprika
+    url: https://www.paprika.co.id/
+    tried: false
+    notes:
+      - text: "Payment Gateway Indonesia"
+        author: "nuuuruur"
+  - name: Pakaidonk
+    url: https://pakaidonk.id/
+    tried: false
+    notes:
+      - text: "E-money"
+        author: "nuuuruur"
+  - name: Betabotz Paygate
+    url: https://web.btzpay.my.id/
+    tried: false
+    notes: null
+  - name: 
+    url: 
+    tried: 
+    notes: 
+
