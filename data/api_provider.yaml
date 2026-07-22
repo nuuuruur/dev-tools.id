@@ -1,6 +1,6 @@
 title: "Api Provider (Random)"
 disclaimer: "Kami tidak terikat dengan provider apapun dan tidak menerima keuntungan sepeserpun."
-note: Ini ada api provider murah buat LLM ada juga yang biasanya dipake untuk whatsapp bot (gratis & bayar).
+note: Ini api provider murah buat dipake untuk whatsapp bot (gratis & bayar).
 items:
   - name: Nexray Api
     url: https://api.nexray.eu.cc/
@@ -14,6 +14,14 @@ items:
     notes:
       - text: "Murah tapi agak kurang qualitynya"
         author: "nuuuruur"
+  - name: Faa Api
+    url: https://aoi-faa.my.id/
+    tried: false
+    notes: null
+  - name: Ryzumi Rest API
+    url: https://api.ryzumi.net/
+    tried: false
+    notes: null
   - name: 
     url: 
     tried: 

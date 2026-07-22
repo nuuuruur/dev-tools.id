@@ -218,12 +218,15 @@ items:
     notes:
       - text: "Start 20k shared hostingindo"
         author: "nuuuruur"
-  - name: 
-    url: 
-    tried: 
+  - name: Noble Host
+    url: https://noblehost.xyz/
+    tried: false
     notes: 
-  - name: 
-    url: 
-    tried: 
-    notes: 
-
+      - text: "Free hosting disk 500MB"
+        author: "nuuuruur"
+  - name: Zans Piw
+    url: https://zanspiwptero.shoppanel.my.id/
+    tried: false
+    notes:
+       - text: "Jual pterodactyl panel, isolated docker container dan reseller script bot"
+         author: "nuuuruur"

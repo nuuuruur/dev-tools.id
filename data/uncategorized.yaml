@@ -10,9 +10,21 @@ items:
     url: https://ktik.me
     tried: true
     notes:
-      - text: "Shortlink sejenis linktree"
+      - text: "Shortlink sejenis linktree untuk di bio"
         author: "nuuuruur"
-  - name: 
-    url: 
-    tried: 
-    notes: 
+  - name: Bansos AI
+    url: https://appverse.id/bansos-ai/
+    tried: false
+    notes: null
+  - name: Appverse
+    url: https://appverse.id/
+    tried: false
+    notes: null
+  - name: Free Dev Identity
+    url: https://upset.dev/thedev.id
+    tried: false
+    notes: null
+  - name: Foss Hunter - Open source tools searcher
+    url: https://fosshunter.com
+    tried: false
+    notes: null
