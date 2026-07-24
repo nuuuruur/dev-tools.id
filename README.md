@@ -11,28 +11,30 @@ Kami **tidak terikat** dengan provider/service apapun dan kami tidak menerima ke
 - [Lain-lain](#lain-lain)
 
 ## Api Provider (Random)
-> Ini ada api provider murah buat LLM ada juga yang biasanya dipake untuk whatsapp bot (gratis & bayar).
+> Ini api provider buat dipake untuk whatsapp bot (gratis & bayar).
 
 | Status | Nama | Catatan |
 |:------:|:-----|:--------|
 | ⬜ | [Nexray Api](https://api.nexray.eu.cc/) | Wa bot - Free ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
 | ✅ | [Betabotz](https://api.betabotz.eu.org/) | Murah tapi agak kurang qualitynya ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
+| ⬜ | [Faa Api](https://aoi-faa.my.id/) | - |
+| ⬜ | [Ryzumi Rest API](https://api.ryzumi.net/) | - |
 | ⬜ | [None](None) | - |
 
 ## Backend Deployment
-> Seluruh provider yang disebutkan di bawah mewajibkan menambahkan metode pembayaran (seperti kartu kredit), karena perbaruan regulasi agar tidak digunakan untuk mining crypto. Tapi, tidak akan cost apapun, saldo akan kepotong untuk memvalidasi keaslian bank account dan akan dikembalikan.
+> Seluruh provider yang disebutkan di bawah mewajibkan menambahkan metode pembayaran (seperti kartu kredit), karena perbaruan regulasi.
 
 | Status | Nama | Catatan |
 |:------:|:-----|:--------|
 | ⬜ | [Render](https://render.com/) | - |
-| ⬜ | [Railway](https://railway.com/) | - |
+| ⬜ | [Railway](https://railway.com/) | Bisa backend dan frontend dan gratis terbatas ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
 | ⬜ | [Fly.io](https://fly.io/) | - |
-| ⬜ | [Heroku](https://www.heroku.com/) | - |
-| ⬜ | [DigitalOcean](https://www.digitalocean.com/) | - |
+| ⬜ | [Heroku](https://www.heroku.com/) | Perlu credit card ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
+| ⬜ | [DigitalOcean](https://www.digitalocean.com/) | Perlu credit card ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
 | ⬜ | [None](None) | - |
 
 ## Frontend Deployment
-> Provider di bawah tidak direkomendasikan untuk deploy backend. Kurang cocok aja. Karen environmentnya beda. Kalau yang di bawah itu modelnya tidak selalu aktif, kalau backend itu perlu nyala terus, terutama kalau project yang perlu realtime.
+> Provider di bawah tidak direkomendasikan untuk deploy backend.
 
 | Status | Nama | Catatan |
 |:------:|:-----|:--------|
@@ -82,8 +84,8 @@ Kami **tidak terikat** dengan provider/service apapun dan kami tidak menerima ke
 | ⬜ | [Atlantic server](https://atlantic-server.com/) | Vps Murah start 30k/bulan ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
 | ⬜ | [Bi-Host](https://bihost.my.id/) | Vps murah start 30k dan Ptereodactyl panel start 3k ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
 | ⬜ | [Nex Network](https://nex.co.id/hosting-murah/) | Start 20k shared hostingindo ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
-| ⬜ | [None](None) | - |
-| ⬜ | [None](None) | - |
+| ⬜ | [Noble Host](https://noblehost.xyz/) | Free hosting disk 500MB ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
+| ⬜ | [Zans Piw](https://zanspiwptero.shoppanel.my.id/) | Jual pterodactyl panel, isolated docker container dan reseller script bot ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
 
 ## Payment Gateway Indonesia
 > Semua support QRIS
@@ -110,6 +112,9 @@ Kami **tidak terikat** dengan provider/service apapun dan kami tidak menerima ke
 | Status | Nama | Catatan |
 |:------:|:-----|:--------|
 | ✅ | [Modifiy Static QRIS to Dynamic](https://www.modiqris.biz.id/) | - |
-| ✅ | [Ktik.me](https://ktik.me) | Shortlink sejenis linktree ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
-| ⬜ | [None](None) | - |
+| ✅ | [Ktik.me](https://ktik.me) | Shortlink sejenis linktree untuk di bio ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
+| ⬜ | [Bansos AI](https://appverse.id/bansos-ai/) | - |
+| ⬜ | [Appverse](https://appverse.id/) | - |
+| ⬜ | [Free Dev Identity](https://upset.dev/thedev.id) | - |
+| ⬜ | [Foss Hunter - Open source tools searcher](https://fosshunter.com) | - |
 

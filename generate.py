@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-"""Generate README.md from YAML data files."""
-
 import sys
 import yaml
 from pathlib import Path
@@ -15,7 +12,6 @@ def load_category(path: Path) -> dict:
 
 
 def check_duplicates(categories: list[tuple[Path, dict]]) -> bool:
-    """Check for duplicate URLs across all categories. Returns True if duplicates found."""
     seen: dict[str, tuple[str, str]] = {}  # url -> (source_file, name)
     duplicates = []
 

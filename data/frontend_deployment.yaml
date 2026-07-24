@@ -1,6 +1,6 @@
 title: "Frontend Deployment"
 disclaimer: "Kami tidak terikat dengan provider apapun dan tidak menerima keuntungan sepeserpun."
-note: "Provider di bawah tidak direkomendasikan untuk deploy backend. Kurang cocok aja. Karen environmentnya beda. Kalau yang di bawah itu modelnya tidak selalu aktif, kalau backend itu perlu nyala terus, terutama kalau project yang perlu realtime."
+note: "Provider di bawah tidak direkomendasikan untuk deploy backend."
 items:
   - name: Netlify
     url: https://www.netlify.com/

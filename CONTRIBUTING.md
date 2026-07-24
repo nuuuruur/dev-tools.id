@@ -16,6 +16,7 @@
 
 3. Jalankan generator untuk update README:
 
+Pastikan sudah install package (Pyyaml)[https://pypi.org/project/PyYAML/]
 ```bash
 python3 generate.py
 ```

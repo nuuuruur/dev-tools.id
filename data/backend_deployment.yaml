@@ -1,6 +1,6 @@
 title: "Backend Deployment"
 disclaimer: "Kami tidak terikat dengan provider apapun dan tidak menerima keuntungan sepeserpun."
-note: "Seluruh provider yang disebutkan di bawah mewajibkan menambahkan metode pembayaran (seperti kartu kredit), karena perbaruan regulasi agar tidak digunakan untuk mining crypto. Tapi, tidak akan cost apapun, saldo akan kepotong untuk memvalidasi keaslian bank account dan akan dikembalikan."
+note: "Seluruh provider yang disebutkan di bawah mewajibkan menambahkan metode pembayaran (seperti kartu kredit), karena perbaruan regulasi."
 items:
   - name: Render
     url: https://render.com/
@@ -9,7 +9,9 @@ items:
   - name: Railway
     url: https://railway.com/
     tried: false
-    notes: null
+    notes: 
+      - text: "Bisa backend dan frontend dan gratis terbatas"
+        author: "nuuuruur"
   - name: Fly.io
     url: https://fly.io/
     tried: false
@@ -17,11 +19,15 @@ items:
   - name: Heroku
     url: https://www.heroku.com/
     tried: false
-    notes: null
+    notes:
+      - text: "Perlu credit card"
+        author: "nuuuruur"
   - name: DigitalOcean
     url: https://www.digitalocean.com/
     tried: false
-    notes: null
+    notes: 
+      - text: "Perlu credit card"
+        author: "nuuuruur"
   - name: 
     url: 
     tried: 
