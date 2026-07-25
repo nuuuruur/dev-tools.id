@@ -14,16 +14,31 @@
       author: "github_username"
 ```
 
-3. Jalankan generator untuk update README:
+3. Setup environment dan install dependencies:
 
-Pastikan sudah install package (Pyyaml)[https://pypi.org/project/PyYAML/]
+**Linux / macOS:**
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+
+**Windows:**
+```cmd
+python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+```
+
+4. Jalankan generator untuk update README:
+
 ```bash
 python3 generate.py
 ```
 
 Jika ada URL yang sudah ada di file lain, generator akan memberi tahu dan menolak generate. Hapus entry duplikat dulu.
 
-4. Commit perubahan di `data/*.yaml` DAN `README.md`
+5. Commit perubahan di `data/*.yaml` DAN `README.md`
 
 ## Field
 
