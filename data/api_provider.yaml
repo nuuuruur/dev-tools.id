@@ -21,8 +21,4 @@ items:
   - name: Ryzumi Rest API
     url: https://api.ryzumi.net/
     tried: false
-    notes: null
-  - name: 
-    url: 
-    tried: 
-    notes: 
+    notes: null 

@@ -74,8 +74,16 @@ items:
     url: https://web.btzpay.my.id/
     tried: false
     notes: null
-  - name: 
-    url: 
-    tried: 
-    notes: 
+  - name: Plink
+    url: https://prismalink.co.id/
+    tried: false
+    notes: null
+  - name: Pakasir
+    url: https://pakasir.com/
+    tried: true
+    notes: null
+  - name: Winpay
+    url: https://winpay.id/
+    tried: false
+    notes: null
 

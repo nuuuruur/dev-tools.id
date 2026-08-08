@@ -19,7 +19,6 @@ Kami **tidak terikat** dengan provider/service apapun dan kami tidak menerima ke
 | ✅ | [Betabotz](https://api.betabotz.eu.org/) | Murah tapi agak kurang qualitynya ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
 | ⬜ | [Faa Api](https://aoi-faa.my.id/) | - |
 | ⬜ | [Ryzumi Rest API](https://api.ryzumi.net/) | - |
-| ⬜ | [None](None) | - |
 
 ## Backend Deployment
 > Seluruh provider yang disebutkan di bawah mewajibkan menambahkan metode pembayaran (seperti kartu kredit), karena perbaruan regulasi.
@@ -31,7 +30,6 @@ Kami **tidak terikat** dengan provider/service apapun dan kami tidak menerima ke
 | ⬜ | [Fly.io](https://fly.io/) | - |
 | ⬜ | [Heroku](https://www.heroku.com/) | Perlu credit card ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
 | ⬜ | [DigitalOcean](https://www.digitalocean.com/) | Perlu credit card ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
-| ⬜ | [None](None) | - |
 
 ## Frontend Deployment
 > Provider di bawah tidak direkomendasikan untuk deploy backend.
@@ -41,7 +39,6 @@ Kami **tidak terikat** dengan provider/service apapun dan kami tidak menerima ke
 | ✅ | [Netlify](https://www.netlify.com/) | - |
 | ✅ | [Vercel](https://vercel.com/) | - |
 | ⬜ | [Lovable](https://lovable.dev/) | - |
-| ⬜ | [None](None) | - |
 
 ## Hosting Murah Indonesia
 | Status | Nama | Catatan |
@@ -86,6 +83,9 @@ Kami **tidak terikat** dengan provider/service apapun dan kami tidak menerima ke
 | ⬜ | [Nex Network](https://nex.co.id/hosting-murah/) | Start 20k shared hostingindo ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
 | ⬜ | [Noble Host](https://noblehost.xyz/) | Free hosting disk 500MB ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
 | ⬜ | [Zans Piw](https://zanspiwptero.shoppanel.my.id/) | Jual pterodactyl panel, isolated docker container dan reseller script bot ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
+| ⬜ | [Jhonaleysotre](https://jhonaleystore.id) | Jual pterodactyl panel  dan reseller ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
+| ⬜ | [Busurhosting](https://busurhost.com) | start 10k ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
+| ⬜ | [Mobius Store](https://mobiusstore.my.id) | Jual pterodactyl panel  dan reseller ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
 
 ## Payment Gateway Indonesia
 > Semua support QRIS
@@ -106,7 +106,9 @@ Kami **tidak terikat** dengan provider/service apapun dan kami tidak menerima ke
 | ⬜ | [Paprika](https://www.paprika.co.id/) | Payment Gateway Indonesia ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
 | ⬜ | [Pakaidonk](https://pakaidonk.id/) | E-money ![nuuuruur](https://github.com/nuuuruur.png?size=20) |
 | ⬜ | [Betabotz Paygate](https://web.btzpay.my.id/) | - |
-| ⬜ | [None](None) | - |
+| ⬜ | [Plink](https://prismalink.co.id/) | - |
+| ✅ | [Pakasir](https://pakasir.com/) | - |
+| ⬜ | [Winpay](https://winpay.id/) | - |
 
 ## Lain-lain
 | Status | Nama | Catatan |
